@@ -1,0 +1,36 @@
+a img {
+  display: block;
+  margin: auto;
+  width: 200px;
+  padding-left: 4px;
+  padding-right: 4px;
+  height: 190px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+p {
+  padding: 10px;
+}
+
+#iframe1 {
+    display: inline-block;
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 600px;
+    width: 250px;
+    border: 2px solid rgb(164, 162, 162);
+    border-right: none;
+    padding: 2px;
+  }
+
+#iframe2 {
+  display: inline-block;
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 600px;
+  width: 980px;
+  border: 2px solid rgb(164, 162, 162);
+  border-right: none;
+  padding: 2px;
+}
